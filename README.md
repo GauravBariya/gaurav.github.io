@@ -68,13 +68,9 @@ Eager to learn, grow, and contribute to building efficient and scalable solution
 📅 Feb 2025 – Mar 2025  
 
 A web-based system built using **Python Django** that helps manage:  
-<img width="1030" height="475" alt="image" src="https://github.com/user-attachments/assets/c079de88-8454-40b7-b5dd-e92d9c12ac06" />
 - Patient records
-- https://github.com/GauravBariya/gaurav.github.io/blob/main/doctor1.jpeg?raw=true
-- Appointments
-- admin page.jpeg  
-- Billing system
-- doctorpage.jpeg  
+- Appointments 
+- Billing system  
 - Inventory  
 
 🔹 Improves hospital efficiency  
