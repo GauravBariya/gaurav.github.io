@@ -68,7 +68,7 @@ Eager to learn, grow, and contribute to building efficient and scalable solution
 📅 Feb 2025 – Mar 2025  
 
 A web-based system built using **Python Django** that helps manage:  
-HOME page.jpeg
+<img width="1030" height="475" alt="image" src="https://github.com/user-attachments/assets/c079de88-8454-40b7-b5dd-e92d9c12ac06" />
 - Patient records
 - doctor1.jpeg
 - Appointments
