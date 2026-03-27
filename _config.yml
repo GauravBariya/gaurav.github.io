@@ -1,6 +1,4 @@
-remote_theme: jekyll-theme-minimal
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [GAURAV BARIYA]
 logo: /images/hs.jpg
+remote_theme: jekyll-theme-minimal
 description: [Welcome to My Portfolio Website]
