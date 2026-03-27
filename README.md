@@ -68,9 +68,13 @@ Eager to learn, grow, and contribute to building efficient and scalable solution
 📅 Feb 2025 – Mar 2025  
 
 A web-based system built using **Python Django** that helps manage:  
-- Patient records  
-- Appointments  
-- Billing system  
+HOME page.jpeg
+- Patient records
+- doctor1.jpeg
+- Appointments
+- admin page.jpeg  
+- Billing system
+- doctorpage.jpeg  
 - Inventory  
 
 🔹 Improves hospital efficiency  
